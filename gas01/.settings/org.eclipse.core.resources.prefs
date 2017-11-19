@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/fhyq/storm/topology/KafkaProducerTest.java=UTF-8
+encoding//src/main/java/com/fhyq/storm/topology/KafkaSpoutTest.java=UTF-8
+encoding//src/main/java/com/fhyq/storm/topology/KafkaTopologyTest.java=UTF-8
